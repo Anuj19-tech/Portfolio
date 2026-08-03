@@ -2,7 +2,11 @@
 Mechanical Design and Analysis Projects
 
 Project 1
+
+
 Modular Joint Development for BRUCE
+
+
   Bruce is an urban concept electric vehicle, built by University of Ottawa’s students to compete in shell eco marathon, a worldwide energy efficiency competition sponsored by shell. 
 
   
