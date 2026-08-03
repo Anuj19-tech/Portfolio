@@ -7,6 +7,8 @@ Modular Joint Development for BRUCE
 
   
   Joint Design: 
+
+  
   Achievement: Weight of 59g, Assembly time of one unit < 3 min
   Requirements: Material (Titanium), Manufacturing process (metal 3D printing)
   Challenges: Joint should be designed without the design of the frame 
