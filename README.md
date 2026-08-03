@@ -8,11 +8,11 @@ Modular Joint Development for BRUCE
   Requirements: Material (Titanium), Manufacturing process (metal 3D printing)
   Challenges: Joint should be designed without the design of the frame 
 
-  Concept
+  Concept: 
   The modular design eliminates the efforts and time required in designing different joints for different configurations. Also, it will reduce the variation and hence, the inventory. 
 
   Analysis and Testing
   Objective: To reduces the weight and/or increase the functionality and/or reduce the assembly time
 
-  Pull Testing Result
+  Pull Testing Result: 
   Joint was intact till 30MPa
